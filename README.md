@@ -8,9 +8,9 @@ Some of my favourite libraries I have created:
 - :horse_racing: [Coppa](https://github.com/rametta/coppa)
 - :spaghetti: [Meatball](https://github.com/rametta/meatball)
 
-My personal blog is [rametta.org](https://rametta.org) where I write about :computer: computer things and the occasional :beer: [brewing recipe](https://rametta.org/recipes/how-to-make-mead/).
+My personal site is [rametta.org](https://rametta.org) where I write about :computer: computer things and the occasional :beer: [brewing recipe](https://rametta.org/recipes/how-to-make-mead/).
 
-Currently in my spare time, I am working on building a headless CMS called :sparkles: **Fuchsia**. The planned release date is around Q4 2020.
+Currently in my spare time, I am working on building a SAAS headless CMS called :sparkles: [**Fuchsia**](https://fuchsiacms.com). _The planned release date is around Q4 2020._
 
 I have also built:
 - :hamburger: [Yokie](https://yokie.app) - a recipe sharing social media site for people who hate how slow all other recipe sites are.

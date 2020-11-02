@@ -4,6 +4,7 @@ My name is Jason. I am a software developer in Montreal, Canada.
 
 Some of my favourite libraries I have created:
 
+- :rocket: [SRD](https://github.com/rametta/srd)
 - :tumbler_glass: [Pratica](https://github.com/rametta/pratica)
 - :horse_racing: [Coppa](https://github.com/rametta/coppa)
 - :spaghetti: [Meatball](https://github.com/rametta/meatball)

@@ -12,11 +12,12 @@ Some of my favourite libraries I have created:
 My personal site is [rametta.org](https://rametta.org) where I write about :computer: computer things and the occasional :beer: [brewing recipe](https://rametta.org/brews/).
 
 Some of my favourite products I have created:
+- :snowboarder: [Retros](https://retros.ihpapp.com) - a trello-like clone for team retrospectives. *(Haskell)*
 - :sparkles: [Fuchsia](https://fuchsiacms.com) **Beta** - a headless content management system (CMS). *(Go / React)*
-- :hamburger: [Yokie](https://yokie.app) - a recipe sharing social media site for people who hate how slow all other recipe sites are. *(Go / VanillaJS / VueJS)*
-- :soccer: [Stillo](https://stillo.io) **Beta** - an app for managing all things related to sports teams and leagues. *(Go / Elm)*
+- :hamburger: [Yokie](https://yokie-app.ue.r.appspot.com) - a free recipe sharing social media site. *(Go / VanillaJS / VueJS)*
+- :soccer: [Stillo](https://stillo.io) **Beta** - an app for managing data related to sports teams and leagues. *(Go / Elm)*
 - :books: [Hugo Mini Course](https://hugo-mini-course.netlify.app/) - a free mini course about building static sites with Hugo. (English/Russian)
-- :crystal_ball: [FP JS](https://fpjs.surge.sh) - a small browser based text editor that includes many popular functional programming libraries in javascript
+- :crystal_ball: [FP JS](https://fpjs.surge.sh) - a small browser based text editor that includes many popular FP libraries in JS
 
 Reach me:
 - on Twitter [@Rametta](https://twitter.com/rametta)

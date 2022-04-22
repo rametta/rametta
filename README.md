@@ -11,14 +11,13 @@ Some of my favourite libraries I have created:
 
 My personal site is [rametta.org](https://rametta.org) where I write about :computer: computer things and the occasional :beer: [brewing recipe](https://rametta.org/brews/).
 
-Some of my favourite products I have created:
+Some of my favourite side projects I have created:
+- :tennis: [Fuzzy Balls](https://fuzzyballs.app) - keep track of your tennis career. *(Remix)*
 - :snowboarder: [Retros](https://retros.ihpapp.com) - a trello-like clone for team retrospectives. *(Haskell)*
-- :sparkles: [Fuchsia](https://fuchsiacms.com) **Beta** - a headless content management system (CMS). *(Go / React)*
-- :hamburger: [Yokie](https://yokie-app.ue.r.appspot.com) - a free recipe sharing social media site. *(Go / VanillaJS / VueJS)*
-- :soccer: [Stillo](https://stillo.io) **Beta** - an app for managing data related to sports teams and leagues. *(Go / Elm)*
 - :books: [Hugo Mini Course](https://hugo-mini-course.netlify.app/) - a free mini course about building static sites with Hugo. (English/Russian)
+- :sparkles: [Fuchsia](https://fuchsiacms.com) **Closed** - a headless content management system (CMS). *(Go / React)*
+- :hamburger: [Yokie](https://yokie-app.ue.r.appspot.com) **Closed** - a free recipe sharing social media site. *(Go / VanillaJS / VueJS)*
+- :soccer: [Stillo](https://stillo.io) **Closed** - an app for managing data related to sports teams and leagues. *(Go / Elm)*
 - :crystal_ball: [FP JS](https://fpjs.surge.sh) - a small browser based text editor that includes many popular FP libraries in JS
 
-Reach me:
-- on Twitter [@Rametta](https://twitter.com/rametta)
-- on Dev [@Rametta](https://dev.to/rametta)
+Reach me on Twitter [@Rametta](https://twitter.com/rametta)

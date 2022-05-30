@@ -4,6 +4,7 @@ My name is Jason. I am a software developer in Montreal, Canada.
 
 Some of my favourite libraries I have created:
 
+- :leafy_green: [Rapini](https://github.com/rametta/rapini) - Codegen tool for OpenAPI to strongly typed React Query hooks
 - :rocket: [SRD](https://github.com/rametta/srd) - Simple Remote Data for Typescript and Javascript projects
 - :tumbler_glass: [Pratica](https://github.com/rametta/pratica) - Common Algebraic Data Types
 - :horse_racing: [Coppa](https://github.com/rametta/coppa) - CLI tool for local development of google cloud serverless functions
